@@ -340,6 +340,13 @@ span.klein {
 /*----------------------------------------------------------------*/
 
 
+/* "Runde" Bilder */
+img.rund {
+	  float: right;
+    margin: 0 0 2rem 2rem;
+    border-radius: 50%;
+}
+
 /* evtl. zum Test, wenn das Menü nicht komplett gezeigt wird: 
 @media (min-width: 800px)
 .navbar-expand-md .navbar-nav {
